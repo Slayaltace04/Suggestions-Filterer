@@ -4,7 +4,7 @@ if the suggestion is updated to "considered", the bot would move the suggestion 
 once the suggestion is updated from considered to denied or approved, the bot will remove the suggestion from the queue.
 You need Carlbot's suggestion system for this to work (Check out Carlbot over here https://carl.gg)  
 -
-We've provided a python version, you will find it in the main folder "bot.py"
+We've added a python version, you will find it in the main folder "bot.py"
 -
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 -
